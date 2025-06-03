@@ -3,13 +3,15 @@
 # Project Name: HR Employee Performance Tracker
 Description: This project involves analyzing employee attendance patterns from April to June using a real-world HR dataset. It focuses on understanding work preferences (Work from Home vs. Office), reasons behind these preferences, sick leave patterns and frequency, and overall attendance trends over time.  The implementation included extensive data cleaning and transformation using Power Query Editor, DAX calculations for various metrics, and data visualization in Power BI. 
 
-
 ## Objective:
 
 To analyze employee attendance patterns from April to June using a real-world HR dataset. 
 To understand work preferences (Work from Home vs. Office) and the reasons behind those preferences. 
 To analyze sick leave patterns and their frequency. 
 To identify trends in employee attendance over time. 
+
+## Dataset 
+- <a href="https://github.com/deshpandeshefali/Data-Analysis-Dashboard/blob/main/Attendance%20Sheet%202022-2023_Masked.xlsx">Dataset</a>
 
 ## Questions Answered (Implicitly, through analysis and insights):
 
