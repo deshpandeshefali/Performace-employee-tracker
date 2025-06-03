@@ -1,2 +1,4 @@
 # Data-Analysis-Dashboard
-This Power BI project analyzes customer data to identify key business insights and segment customers based on their purchasing behaviors. The aim is to help businesses understand customer trends and make informed marketing or operational decisions.
+
+## This project involves analyzing employee attendance patterns from April to June using a real-world HR dataset. It focuses on understanding work preferences (Work from Home vs. Office), reasons behind these preferences, sick leave patterns and frequency, and overall attendance trends over time.  The implementation included extensive data cleaning and transformation using Power Query Editor, DAX calculations for various metrics, and data visualization in Power BI. 
+
