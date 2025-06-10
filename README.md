@@ -8,9 +8,6 @@ To understand work preferences (Work from Home vs. Office) and the reasons behin
 To analyze sick leave patterns and their frequency. 
 To identify trends in employee attendance over time. 
 
-## Dataset 
-- <a href="https://github.com/deshpandeshefali/Data-Analysis-Dashboard/blob/main/Attendance%20Sheet%202022-2023_Masked.xlsx">Dataset</a>
-
 ## Questions Answered (Implicitly, through analysis and insights):
 
 1. What is the percentage of employee presence (including WFH and Half-WFH)? 
@@ -19,9 +16,6 @@ To identify trends in employee attendance over time.
 4. How do these percentages (presence, sick leave, WFH) trend over time (daily and monthly)? 
 5. Are there specific periods with higher sick leave or WFH percentages? 
 6. How do work preferences compare between Work from Home and office setups? 
-
-## Dashboard
-- <a href="https://github.com/deshpandeshefali/Data-Analysis-Dashboard/blob/main/final.png">View Dashboard</a>
 
 ## Process 
 
